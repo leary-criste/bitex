@@ -35,4 +35,4 @@ export type TPageStatus =
   | "filterLoading"
   | "filledProductList"
   | "filterHasNoProduct"
-  | "categoryHasNoProduct";
+  | "categoryHasNoProduct";
