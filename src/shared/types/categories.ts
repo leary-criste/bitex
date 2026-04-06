@@ -14,4 +14,4 @@ export type TGroupJSON = {
 type categoryJSON = {
   category: TCategory;
   subCategories: TCategory[];
-};
+};
