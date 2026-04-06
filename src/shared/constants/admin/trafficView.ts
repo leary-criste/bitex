@@ -1,1 +1,1 @@
-export const TRAFFIC_LIST_PAGE_SIZE = 20;
+export const TRAFFIC_LIST_PAGE_SIZE = 20;
