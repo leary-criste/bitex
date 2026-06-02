@@ -56,4 +56,4 @@ export const getCategorySpecs = async (categoryID: string) => {
   } catch (error) {
     return { error: JSON.stringify(error) };
   }
-};
+};
