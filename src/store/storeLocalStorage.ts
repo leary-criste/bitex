@@ -24,4 +24,4 @@ export const saveState = (state: any) => {
   } catch {
     console.error("Failed to save state");
   }
-};
+};
