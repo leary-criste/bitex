@@ -56,4 +56,4 @@ shoppingCartStore.subscribe(() => {
 export type RootState = ReturnType<typeof shoppingCartStore.getState>;
 export type AppDispatch = typeof shoppingCartStore.dispatch;
 
-export const { add, remove, modifyQuantity, toggleCart } = cartSlice.actions;
+export const { add, remove, modifyQuantity, toggleCart } = cartSlice.actions;
