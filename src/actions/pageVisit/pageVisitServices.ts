@@ -92,4 +92,4 @@ export const deleteTraffic = async (id: string) => {
   } catch (error) {
     return { error: JSON.stringify(error) };
   }
-};
+};

@@ -253,4 +253,4 @@ const getPathByCategoryID = async (categoryID: string, parentID: string | null) 
   } catch {
     return null;
   }
-};
+};
