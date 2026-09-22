@@ -155,4 +155,4 @@ export const deleteCategory = async (id: string) => {
   } catch {
     return { error: "Can't delete it!" };
   }
-};
+};
